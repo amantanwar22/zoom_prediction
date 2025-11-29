@@ -107,6 +107,7 @@ timestamp,zoom_freeze_count,call_rating
 10:00,0,5
 10:01,1,4
 
-Output (Console)
+### Program Output
+![Program Output](./output.png)
 
 
